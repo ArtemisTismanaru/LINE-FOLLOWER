@@ -97,4 +97,4 @@ Our team collaboratively developed a line follower, a robotic system designed to
 </details>
 
 ### 📽 Video : [ LINE FOLLOWER 🌴 ](https://youtu.be/r3CJOg_bMIA)
-### 🖥 Code : [ The Code 🌴 ](https://github.com/anacimpeanu/LINE-FOLLOWER-PROJECT/blob/main/LINE%20FOLLOWER.ino)
+### 🖥 Code : [ The Code 🌴 ](https://github.com/tinutzaa/LINE-FOLLOWER/blob/main/lf_bun.ino)
